@@ -10,4 +10,5 @@ The Windows version of Dispel is written in PowerShell script. In order to run i
 	* Windows 7: Click Start > Accessories > Windows PowerShell. Right-click on the Windows PowerShell program and click Run as administrator.
 2. Run the following command to change the Execution Policy.
 	Set-ExecutionPolicy RemoteSigned
-3. Run the Dispel script by right-clicking on the script file and clicking Run with PowerShell.
+	
+Once the PowerShell Execution Policy has been changed, Dispel can be started by right-clicking on the script file and clicking Run with PowerShell.
